@@ -12,5 +12,5 @@ When all parameters have been defined, the password will appear within the passw
 
 Technologies Used: HTML5, CSS3, JavaScript
 
-![password generator demo]()
+![here is the page for password generator](https://nargizaboronchieva.github.io/password-generator/)
 
